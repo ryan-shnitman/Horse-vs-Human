@@ -1,5 +1,5 @@
 # Horse-vs-Human
 Classifying horses vs humans
 
-#### CNN based on tensorflow keras
+#### CNN using tensorflow keras
 #### Data artifically augmented with Image Generator
